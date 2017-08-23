@@ -1,8 +1,8 @@
 
 Already created for Ubuntu/i386: 
-
+```
 sudo snap install ttimer
-
+```
 Feel free to transform ... 
 -------------------------------------------------------------- 
 
