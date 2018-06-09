@@ -3,8 +3,8 @@
 # contact:   http://smolka.lima-city.de/contact.php
 name: ttimer
 version: "0.0.2-xxxx"
-summary: tea-timer for systems w/ or w/o java
-description: tea-timer for systems w/ and w/o java --- if java and javaws are installed already, you might prefer the lean version which you can download and install via http://onlineteatimer.blogspot.com/
+summary: Timer for systems w/ and w/o java
+description: tea-timer for systems w/ or w/o java --- if java and javaws are installed already, you might prefer the lean version which you can download and install via http://onlineteatimer.blogspot.com/
 grade: stable         # must be 'stable' to release into candidate/stable channels
 confinement: strict   # use 'strict' once you have the right plugs and slots
 icon: bin/icon.png
